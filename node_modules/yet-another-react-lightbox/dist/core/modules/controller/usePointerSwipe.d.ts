@@ -1,0 +1,2 @@
+import { UseSensors } from "../../hooks/useSensors.js";
+export declare function usePointerSwipe<T extends Element = Element>(subscribeSensors: UseSensors<T>["subscribeSensors"], isSwipeValid: (offset: number) => boolean, containerWidth: number, swipeAnimationDuration: number, onSwipeStart: () => void, onSwipeProgress: (offset: number) => void, onSwipeFinish: (offset: number, duration: number) => void, onSwipeCancel: (offset: number) => void): void;

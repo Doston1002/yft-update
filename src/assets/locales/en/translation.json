@@ -1,0 +1,78 @@
+{
+  "Header": {
+    "name": "YANGIYER FLOUR ",
+    "name2": "TRADING",
+    "about": "About Us",
+    "product": "Products",
+    "partners": "Partners",
+    "ContactUs": "Contact us",
+    "language": "Language",
+    "Gallary": "Photo gallery",
+    "Fotogalery": "Photo gallery",
+    "study": "Select the subject you want to study",
+    "OurProducts": "Our Products",
+    "Vacancies": "Vacancies",
+    "Questions": "Frequently Asked Questions",
+    "OurPartners": "Our Partners",
+    "AboutUs": "About Us",
+    "All": "All"
+  },
+  "about": {
+    "title": "LLP Yangiyer Flour Trading is an independent, family owned company. Operating since 1991. Based in the heart of central Asia. LLP Yangiyer Flour Trading operates from their purpose built for producing best quality wheat flour from first class flour to second and third class and offering a service second to none at very competitive prices. With over 30 years’ experience in the wholesale and production market industry. our staff will use their experience and knowledge to help customers achieve their fresh produce collections or deliveries on a daily basis."
+  },
+  "contact": {
+    "name": "Name",
+    "email": "Email",
+    "send": "SEND MESSAGE",
+    "message": "Send message"
+  },
+  "footer": {
+    "name": " Address: Republic of Uzbekistan, Sirdaryo region, Yangiyer city,industrial area"
+  },
+  "navHeader": {
+    "call": "Call Us",
+    "Email": "Email Us",
+    "Openouse": "Open House"
+  },
+  "name": {
+    "yangiyer": "YANGIYER FLOUR",
+    "trading": "TRADING"
+  },
+ 
+  "ResearcherOnline": {
+    "statistics": "Application statistics",
+    "Received": "Application statistics",
+    "Accepted": "Accepted",
+    "Rejected": "Rejected",
+    "review": "In review"
+  },
+  "Hero": {
+    "motto": "A real journalist should be awake... a real journalist should be conscientious...",
+    "description": "Today there is a social network user who thinks he is a journalist. But I consider a journalist to be a person who sorts out various fake and credible information and delivers reliable information in the information space."
+  },
+  "NewsCard": {
+    "title": "{{news_card_title}}",
+    "desc": "{{news_card_body}}"
+  },
+  "RecommendContent": {
+    "title0": "{{recommend_content_title0}}",
+    "title": "{{recommend_content_title}}",
+    "button": "More news"
+  },
+  "MoreDetails": {
+    "title": "{{more_details_title}}",
+    "body": "{{more_details_body}}"
+  },
+  "Motto": {
+    "title": "{{motto_content_title}}",
+    "desc": "{{motto_content_body}}"
+  },
+  "faq": {
+    "title": "{{faq_content_title}}",
+    "desc": "{{faq_content_body}}"
+  }
+  ,
+  "bannerItem": {
+    "title": "{{banner_title_desc}}"
+  }
+}

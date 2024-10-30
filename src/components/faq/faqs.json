@@ -1,0 +1,21 @@
+{
+    "faqs": [
+      {
+        "_id": "1",
+        "category": "a",
+        "title_en": "What is the purpose of your organization?",
+        "title_uz": "Sizning tashkilotingizning maqsadi nima?",
+        "body_en": "Our organization focuses on providing high-quality services to our clients.",
+        "body_uz": "Bizning tashkilotimiz mijozlarimizga yuqori sifatli xizmatlarni taqdim etishga qaratilgan."
+      },
+      {
+        "_id": "2",
+        "category": "a",
+        "title_en": "How can I get involved?",
+        "title_uz": "Qanday qilib ishtirok etishim mumkin?",
+        "body_en": "You can get involved by volunteering or donating to our cause.",
+        "body_uz": "Siz bizning tashabbusimizga ko'ngillilik yoki mablag' yig'ish orqali ishtirok etishingiz mumkin."
+      }
+    ]
+  }
+  

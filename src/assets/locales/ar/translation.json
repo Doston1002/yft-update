@@ -1,0 +1,65 @@
+{
+  "Header": {
+    "name": "YANGIYER FLOUR ",
+    "name2": "TRADING",
+    "about": "درباره ما",
+    "product": "محصولات",
+    "partners": "شرکا",
+    "ContactUs": "با ما تماس بگیرید",
+    "language": "زبان",
+    "Gallary": "گالری عکس",
+    "Fotogalery": "گالری عکس",
+    "study": "موضوعی را که می خواهید مطالعه کنید انتخاب کنید",
+    "OurProducts": "محصولات ما",
+    "Vacancies": "جای خالی",
+    "Questions": "سوالات متداول",
+    "OurPartners": "شرکای ما",
+    "AboutUs": "درباره ما",
+    "All": "همه"
+  },
+  "about": {
+    "title": "LLP Yangiyer Flour Trading یک شرکت مستقل و خانوادگی است. فعال از سال 1991. مستقر در قلب آسیای مرکزی. LLP Yangiyer Flour Trading با هدف تولید آرد گندم با بهترین کیفیت از آرد درجه یک تا درجه دوم و سوم و ارائه خدماتی با قیمت های بسیار رقابتی عمل می کند. با بیش از 30 سال سابقه در صنعت عمده فروشی و بازار تولید. کارکنان ما از تجربیات و دانش خود برای کمک به مشتریان برای دستیابی به مجموعه های محصولات تازه یا تحویل روزانه خود استفاده خواهند کرد."
+  },
+  "contact": {  
+    "name": "نام",
+    "email": "پست الکترونیک",
+    "send": "پیام فرستادن",
+    "message": "پیام فرستادن"
+  },
+  "footer": {
+    "name": " آدرس: جمهوری ازبکستان، منطقه سیرداریو، شهر یانگ یر، منطقه صنعتی"
+  },
+  "navHeader": {
+    "call": "اتصل بنا",
+    "Email": "ارسل لنا عبر البريد الإلكتروني",
+    "Openouse": "بيت مفتوح"
+  },
+  "name": {
+    "yangiyer": "طحين يانجيير ",
+    "trading": "تجارة"
+  },
+ 
+  "NewsCard": {
+    "title": "{{news_card_title}}",
+      "desc": "{{news_card_body}}"
+  },
+  "RecommendContent": {
+    "title": "{{recommend_content_title}}",
+    "button": "Ko'proq yangiliklar"
+  },
+  "MoreDetails": {
+    "title": "{{more_details_title}}",
+    "body": "{{more_details_body}}"
+  },
+  "Motto": {
+    "title": "{{motto_content_title}}",
+    "desc": "{{motto_content_body}}"
+  },
+  "faq": {
+    "title": "{{faq_content_title}}",
+    "desc": "{{faq_content_body}}"
+  },
+  "bannerItem": {
+    "title": "{{banner_title_desc}}"
+  }
+}

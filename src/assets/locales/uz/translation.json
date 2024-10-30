@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "name": "YANGIYER FLOUR ",
+    "name2": "TRADING",
+    "about": "Biz haqimizda",
+    "product": "Mahsulotlar",
+    "partners": "Hamkorlar",
+    "ContactUs": "Bog'lanish",
+    "language": "Language",
+    "Gallary": "Galeriya",
+    "Fotogalery": "Fotogaleriya",
+    "study": "O'rganmoqchi bo'lgan mavzuni tanlang",
+    "OurProducts": "Bizning maxsulotlarimiz",
+    "Vacancies": "Vakansiyalar",
+    "Questions": "Tez-tez so'raladigan savollar",
+    "OurPartners": "Hamkorlarimiz",
+    "AboutUs": "Biz haqimizda",
+    "All": "Barchasi"
+  },
+  "about": {
+    "title": "“Yangiyer Flour Trading” MChJ mustaqil, oilaviy kompaniya hisoblanadi. 1991 yildan beri faoliyat yuritadi. Markaziy Osiyoning markazida joylashgan. \"Yangiyer Flour Trading\" MChJ o'z maqsadi bo'yicha birinchi navli undan ikkinchi va uchinchi navgacha eng sifatli bug'doy unini ishlab chiqarish va raqobatbardosh narxlarda hech kimdan kam bo'lmagan xizmat ko'rsatish uchun qurilgan. Ulgurji va ishlab chiqarish bozori sohasida 30 yildan ortiq tajribaga ega. Bizning xodimlarimiz o'zlarining tajriba va bilimlarini mijozlarga har kuni yangi mahsulotlarni to'plash yoki yetkazib berishga yordam berish uchun ishlatadilar."
+  },
+  "contact": {
+    "name": "Ism",
+    "email": "Elektron pochta",
+    "send": "XABAR YUBORISH",
+    "message": "Xabar yuborish"
+  },
+  "footer": {
+    "name": "Manzil: O‘zbekiston Respublikasi, Sirdaryo viloyati, Yangiyer shahri, sanoat rayoni"
+  },
+  "navHeader": {
+    "call": "Call Us",
+    "Email": "Email Us",
+    "Openouse": "Open House"
+  },
+  "name": {
+    "yangiyer": "YANGIYER FLOUR",
+    "trading": "TRADING"
+  },
+
+  "NewsCard": {
+    "title": "{{news_card_title}}",
+    "desc": "{{news_card_body}}"
+  },
+  "Motto": {
+    "title": "{{motto_content_title}}",
+    "desc": "{{motto_content_body}}"
+  },
+  "MoreDetails": {
+    "title": "{{more_details_title}}",
+    "body": "{{more_details_body}}"
+  },
+  "faq": {
+    "title": "{{faq_content_title}}",
+    "desc": "{{faq_content_body}}"
+  } ,
+  "bannerItem": {
+    "title": "{{banner_title_desc}}"
+  }
+}

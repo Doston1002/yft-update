@@ -1,0 +1,26 @@
+{
+    "news": [
+      {
+        "_id": "1",
+        "photo": "",
+        "title_en": "First News Title",
+        "title_uz": "Birinchi Yangilik Sarlavhasi",
+        "body_uz": "Bu birinchi yangilikning tavsifi."
+      },
+      {
+        "_id": "2",
+        "photo": "https://example.com/image2.jpg",
+        "title_en": "Second News Title",
+        "title_uz": "Ikkinchi Yangilik Sarlavhasi",
+        "body_uz": "Bu ikkinchi yangilikning tavsifi."
+      },
+      {
+        "_id": "3",
+        "photo": "https://example.com/image3.jpg",
+        "title_en": "Third News Title",
+        "title_uz": "Uchinchi Yangilik Sarlavhasi",
+        "body_uz": "Bu uchinchi yangilikning tavsifi."
+      }
+    ]
+  }
+  
