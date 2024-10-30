@@ -19,7 +19,7 @@ import { News } from "../news/News";
 
 export const Home = () => {
   const { t } = useTranslation();
-  const { news, vacancys } = useContext(UsersContext);
+  const {  vacancys } = useContext(UsersContext);
 
   useEffect(() => {
     newsActions.getNews("news/all");

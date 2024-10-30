@@ -42,9 +42,6 @@ i18n
       caches: ["cookie"],
     },
     react: { useSuspense: true },
-    // backend: {
-    //   loadPath: "/assets/locales/{{lng}}/translation.json",
-    // },
     interpolation: {
       escapeValue: false,
     },

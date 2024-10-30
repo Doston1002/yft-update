@@ -20,7 +20,7 @@ export const NewsDetails = () => {
             })}
           </h1>
 
-          {/* Yangilik tavsifi */}
+        
           <p>
             {t("NewsCard.desc", {
               news_card_body: `${newsItem?.[`body_${i18next.language}`]}`,

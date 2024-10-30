@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import newsData from './NewsData';  // 'newsData' ni import qilamiz
+import newsData from './NewsData';  
 import i18next from "i18next";
 import { useTranslation } from "react-i18next";
 
@@ -20,7 +20,6 @@ export const News = () => {
               })}
             </h2>
 
-            {/* Yangi sahifaga o'tish uchun Link ishlatildi */}
             <Link to={`/news/${item._id}`} className="mt-4 px-4 py-2 bg-primary_color text-white rounded-lg">
               {t('Batafsil ma\'lumot')}
             </Link>
